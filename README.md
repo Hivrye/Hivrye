@@ -26,8 +26,6 @@ I'm an aspiring **full-stack developer** currently learning and building project
 ## 🌟 Featured Projects
 Here are some of the projects I'm working on or proud of:
 
-- **Personal Website Project** – A website built as part of my learning journey
-- **Dev Portfolio Projects** – Projects focused on growing my front-end and full-stack skills
 - **More coming soon...**
 
 ## 📫 Connect With Me
